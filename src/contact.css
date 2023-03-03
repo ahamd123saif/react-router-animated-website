@@ -1,0 +1,15 @@
+.contact{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    color: rgb(124, 84, 39);
+
+}
+.form-btn{
+    font-size: 500;
+    width: 100px;
+    height: 35px;
+    border-radius: 7px;
+    color: rgb(124, 84, 39);
+    border: 2px solid rgb(124, 84, 39);
+}
